@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hi there, I'm Kim, a software dev
+#  About Me:
+Hi there,Kim here, a software dev.
 
 
 ## Lets Connect
